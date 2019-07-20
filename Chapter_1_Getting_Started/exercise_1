@@ -1,0 +1,23 @@
+Last login: Sat Jul 20 17:47:57 on ttys000
+Yu-Xias-MacBook-Pro:~ YuXia$ git init
+Initialized empty Git repository in /Users/xiabingbao1/.git/
+Yu-Xias-MacBook-Pro:~ YuXia$ git remote add origin https://github.com/yxia521/solutions-to-intro-to-programming.git
+Yu-Xias-MacBook-Pro:~ YuXia$ mkdir Chapter_1_Getting_Started
+Yu-Xias-MacBook-Pro:~ YuXia$ cd Chapter_1_Getting_Started
+Yu-Xias-MacBook-Pro:Chapter_1_Getting_Started YuXia$ touch exercise_1
+Yu-Xias-MacBook-Pro:Chapter_1_Getting_Started YuXia$ rm exercise_1
+Yu-Xias-MacBook-Pro:Chapter_1_Getting_Started YuXia$ mkdir my_folder
+Yu-Xias-MacBook-Pro:Chapter_1_Getting_Started YuXia$ cd my_foler
+-bash: cd: my_foler: No such file or directory
+Yu-Xias-MacBook-Pro:Chapter_1_Getting_Started YuXia$ cd my_folder
+Yu-Xias-MacBook-Pro:my_folder YuXia$ touch one.rb
+Yu-Xias-MacBook-Pro:my_folder YuXia$ touch two.rb
+Yu-Xias-MacBook-Pro:my_folder YuXia$ ruby one.rb
+this is file one
+Yu-Xias-MacBook-Pro:my_folder YuXia$ ruby two.rb
+this is file two
+Yu-Xias-MacBook-Pro:my_folder YuXia$ 
+
+
+
+
