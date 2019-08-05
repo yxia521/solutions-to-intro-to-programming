@@ -1,0 +1,4 @@
+  Exception handling is structure that Ruby uses to deal with an error or something unexpected when executing your code. It saves your code by changing the flow of control.
+
+  Key words: begin rescue end
+

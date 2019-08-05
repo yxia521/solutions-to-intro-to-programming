@@ -1,0 +1,65 @@
+Last login: Wed Jul 24 16:20:06 on ttys000
+Yu-Xias-MacBook-Pro:~ YuXia$ mkdir Chapter_2_The_Basics
+Yu-Xias-MacBook-Pro:~ YuXia$ cd Chapter_2_The_Basics
+Yu-Xias-MacBook-Pro:Chapter_2_The_Basics YuXia$ irb
+irb(main):001:0> "Yu" + "Xia"
+=> "YuXia"
+irb(main):002:0> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

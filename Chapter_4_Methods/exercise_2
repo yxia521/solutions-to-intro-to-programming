@@ -1,0 +1,24 @@
+Last login: Mon Jul 29 10:50:04 on ttys000
+Yu-Xias-MacBook-Pro:~ YuXia$ cd Chapter_4_Methods
+Yu-Xias-MacBook-Pro:Chapter_4_Methods YuXia$ irb
+irb(main):001:0> x = 2
+=> 2
+irb(main):002:0> puts x = 2
+2
+=> nil
+irb(main):003:0> p name = "Joe"
+"Joe"
+=> "Joe"
+irb(main):004:0> four = "four"
+=> "four"
+irb(main):005:0> print something = "nothing"
+nothing=> nil
+irb(main):006:0> 
+
+
+
+
+
+
+
+

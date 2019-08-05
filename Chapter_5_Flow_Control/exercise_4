@@ -1,0 +1,5 @@
+  1. It will print FALSE.
+
+  2. It will print Did you get it right?
+
+  3. It will print Alright now! Ruby will go through the conditions in the if statements one by one. On line 14, since the values of x and y meet the condition, Ruby executes the argument on the next line, puts "Alright now!". Then, Ruby immediately exits from that line. 

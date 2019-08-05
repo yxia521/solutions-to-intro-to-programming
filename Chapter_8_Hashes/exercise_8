@@ -1,0 +1,4 @@
+  B. 
+
+  Obviously, you're tring to call a built-in method .keys, but in array, there's no such a method called .keys. 
+  .keys method is available in hash class.

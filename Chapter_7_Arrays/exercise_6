@@ -1,0 +1,8 @@
+  You want to assign a new value to replace 'margaret', however, the 'margaret' is a string not integer. 
+  When you try to refer to the index of 'margaret' here, you should type an integer.
+
+  On line 2, the right code should be:
+  names[3] = 'jody'
+
+  Ruby will return names = ['bob', 'joe', 'susan', 'jody']
+  

@@ -1,0 +1,2 @@
+	X is 3 in the first case, and the second case throws an error. 
+	In the second case, we don’t define x in the outer scope. Ruby doesn’t know what’s x outside of the block, x is only available in inner scope and not available in outer scope, so when we run ‘puts x’ in an outer scope, there should be an error.

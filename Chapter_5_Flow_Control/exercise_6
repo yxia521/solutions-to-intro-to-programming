@@ -1,0 +1,2 @@
+  You get this error message because you only have one end when we expect there should be two. One end for def, one for if statemnet. 
+  To fix it, just add the word end at the end of the block.

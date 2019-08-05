@@ -1,0 +1,5 @@
+  # major difference between an Array and a Hash
+
+  A hash has key-value pairs. Each value is associated with a key. You can access the value by using the key. 
+
+  Arrays don't have key.

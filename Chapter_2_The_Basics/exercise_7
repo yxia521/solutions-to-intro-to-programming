@@ -1,0 +1,1 @@
+	This message tells us that the user inputs a wrong ‘)’. Ruby suggests to put ‘}’ instead. For example, when creating a hash, I start with a ‘{‘ but put a ‘)’ at the end.

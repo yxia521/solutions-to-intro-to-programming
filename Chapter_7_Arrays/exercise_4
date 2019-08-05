@@ -1,0 +1,23 @@
+Last login: Wed Jul 31 14:38:42 on ttys000
+Yu-Xias-MacBook-Pro:~ YuXia$ cd Chapter_7_Arrays
+Yu-Xias-MacBook-Pro:Chapter_7_Arrays YuXia$ irb
+irb(main):001:0> arr = [15, 7, 18, 5, 12, 8, 5, 1]
+=> [15, 7, 18, 5, 12, 8, 5, 1]
+irb(main):002:0> arr.index(5)
+=> 3
+irb(main):003:0> arr.index[5]
+NoMethodError: undefined method `[]' for #<Enumerator: [15, 7, 18, 5, 12, 8, 5, 1]:index>
+	from (irb):3
+	from /usr/bin/irb:11:in `<main>'
+irb(main):004:0> arr[5]
+=> 8
+irb(main):005:0> 
+
+
+
+
+
+
+
+
+
